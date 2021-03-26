@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["zookeeper"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/marker/trait.StructuralEq.html\" title=\"trait core::marker::StructuralEq\">StructuralEq</a> for <a class=\"struct\" href=\"zookeeper/struct.Subscription.html\" title=\"struct zookeeper::Subscription\">Subscription</a>","synthetic":false,"types":["zookeeper::listeners::Subscription"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
